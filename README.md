@@ -1,9 +1,6 @@
 # Personal Expense Tracker
 
 A simple, user-friendly mobile app for recording and monitoring daily expenses, built with **C#** and **.NET MAUI**.
-
-expense_tracker_thumbnail.png
-
 ---
 
 ## Overview
