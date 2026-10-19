@@ -2,9 +2,7 @@
 
 A simple, user-friendly mobile app for recording and monitoring daily expenses, built with **C#** and **.NET MAUI**.
 
-<p align="center">
-  <img src="assets/expense_tracker_thumbnail.png" alt="Personal Expense Tracker thumbnail" width="100%">
-</p>
+"D:\University_Projects\Third year projects\Mobile application development\expense_tracker_thumbnail.png"
 
 ---
 
